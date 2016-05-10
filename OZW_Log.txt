@@ -1,0 +1,56 @@
+2014-09-17 03:21:08.061 mgr,     Added driver for controller /dev/ttyACM0
+2014-09-17 03:21:08.061   Opening controller /dev/ttyACM0
+2014-09-17 03:21:08.061 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:08.061 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:08.062 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:08.062 WARNING: Failed to init the controller (attempt 0)
+2014-09-17 03:21:13.062   Opening controller /dev/ttyACM0
+2014-09-17 03:21:13.062 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:13.062 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:13.062 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:13.063 WARNING: Failed to init the controller (attempt 1)
+2014-09-17 03:21:18.063   Opening controller /dev/ttyACM0
+2014-09-17 03:21:18.063 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:18.063 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:18.063 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:18.063 WARNING: Failed to init the controller (attempt 2)
+2014-09-17 03:21:23.064   Opening controller /dev/ttyACM0
+2014-09-17 03:21:23.064 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:23.064 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:23.064 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:23.064 WARNING: Failed to init the controller (attempt 3)
+2014-09-17 03:21:28.065   Opening controller /dev/ttyACM0
+2014-09-17 03:21:28.065 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:28.065 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:28.065 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:28.065 WARNING: Failed to init the controller (attempt 4)
+2014-09-17 03:21:33.067   Opening controller /dev/ttyACM0
+2014-09-17 03:21:33.067 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:33.067 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:33.067 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:33.067 WARNING: Failed to init the controller (attempt 5)
+2014-09-17 03:21:38.068   Opening controller /dev/ttyACM0
+2014-09-17 03:21:38.068 Trying to open serial port /dev/ttyACM0 (attempt 1)
+2014-09-17 03:21:38.068 ERROR: Cannot open serial port /dev/ttyACM0. Error code 13
+2014-09-17 03:21:38.068 ERROR: Failed to open serial port /dev/ttyACM0
+2014-09-17 03:21:38.069 WARNING: Failed to init the controller (attempt 6)
+2014-09-17 03:21:38.090 ***************************************************************************
+2014-09-17 03:21:38.090 *********************  Cumulative Network Statistics  *********************
+2014-09-17 03:21:38.090 *** General
+2014-09-17 03:21:38.091 Driver run time: . .  . 0 days, 0 hours, 0 minutes
+2014-09-17 03:21:38.091 Frames processed: . . . . . . . . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 Total messages successfully received: . . . . . . . . . . 0
+2014-09-17 03:21:38.091 Total Messages successfully sent: . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 ACKs received from controller:  . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 *** Errors
+2014-09-17 03:21:38.091 Unsolicited messages received while waiting for ACK:  . . 0
+2014-09-17 03:21:38.091 Reads aborted due to timeouts:  . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 Bad checksum errors:  . . . . . . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 CANs received from controller:  . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 NAKs received from controller:  . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 Out of frame data flow errors:  . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 Messages retransmitted: . . . . . . . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 Messages dropped and not delivered: . . . . . . . . . . . 0
+2014-09-17 03:21:38.091 ***************************************************************************
+2014-09-17 03:21:38.091 WARNING: Tried to write driver config with no home ID set
+2014-09-17 03:21:38.091 mgr,     Driver for controller /dev/ttyACM0 removed
